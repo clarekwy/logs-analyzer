@@ -1,0 +1,33 @@
+# graphify-axet
+.graphify/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Generated log files
+logs/
+*.log
+
+# logscope Markdown reports
+*.log.summary.md
+*.log.timeline.md
+*.log.grep.md
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+*.swp

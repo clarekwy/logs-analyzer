@@ -1,0 +1,17 @@
+2026-10-01 09:00:00 INFO Application starting
+2026-10-01 09:01:00 INFO Server started on port 8080
+2026-10-01 09:02:00 WARN Cache miss for user 101
+2026-10-01 09:03:00 ERROR Database connection timed out
+2026-10-01 09:04:00 ERROR Database connection timed out
+2026-10-01 09:05:00 WARN Disk usage above 80%
+2026-10-01 09:06:00 ERROR Null pointer exception in handler
+2026-10-01 09:07:00 ERROR Database connection timed out
+2026-10-01 09:08:00 INFO Health check passed
+2026-10-01 09:09:00 ERROR Out of memory
+this is a malformed line
+2026-10-01 09:11:00 DEBUG unknown level
+2026-10-01 09:12:00 ERROR Null pointer exception in handler
+2026-10-01 09:13:00 ERROR Out of memory
+2026-10-01 09:14:00 ERROR Out of memory
+not a timestamp ERROR something
+2026-10-01 09:16:00 INFO Shutdown complete
